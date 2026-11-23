@@ -21,7 +21,7 @@ If a `swarm-ready` skill is installed, load it. Otherwise execute the documented
 
 ## Repository starting point
 
-Read: [README.md](README.md), [.github](.github).
+Start at the [course index](README.md) and [contribution note](CONTRIBUTING.md). This fork contains notes, quizzes, and Jupyter notebooks grouped by course and week; use its tracked files to verify local navigation. Upstream course links and attribution are separate from the contents of this checkout.
 
 Continue an existing approved issue or a clearly scoped user objective after inspecting the source map below. If none is selected, return the smallest useful improvement and its verifier as the handoff; do not begin a portfolio-wide rewrite.
 
@@ -41,7 +41,15 @@ The base above is an inspection snapshot, not a permanent working branch. Refres
 
 ## Verification starting point
 
-No executable acceptance command was established by this bounded source inspection. Read `README.md`, `.github` and record the narrowest existing check before implementation. Do not invent a `test` command or infer that the repository has no tests from this gap. For a documentation-only task, check links, factual source anchors and whitespace; do not build unrelated application code.
+For the README navigation slice, compare the two corrected notebook links with their tracked, case-sensitive targets. Run from the repository root, including in a sparse checkout:
+
+```sh
+git ls-files --error-unmatch -- \
+  'C1 - Supervised Machine Learning - Regression and Classification/week2/Optional Labs/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb' \
+  'C2 - Advanced Learning Algorithms/week1/optional-labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb'
+```
+
+Expect exit 0 and the two paths above. Confirm the README links its “Sklearn Normal Method” and “Coffee Roasting Using Numpy” labels to those distinct notebooks, and that the README and this handoff link to each other. This check needs only Git; do not launch notebooks, run coursework or contact Coursera for a navigation change.
 
 ## Required handoff result
 

@@ -5,6 +5,9 @@
 
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
 
+For bounded documentation and notebook-index work, start with the
+[swarm-ready handoff](SWARM_READY.md).
+
 **Note : If you would like to have a deeper understanding of the concepts by understanding all the math required, have a look at [Mathematics for Machine Learning and Data Science](https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera)**
 
 <hr/>
@@ -33,7 +36,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
       - [Feature Scaling](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab03_Feature_Scaling_and_Learning_Rate_Soln.ipynb)
       - [Feature Engineering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
       - [Sklearn Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
-      - [Sklearn Normal Method](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
+      - [Sklearn Normal Method](C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/C1W2A1)
       - [Linear Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2/C1W2A1/C1_W2_Linear_Regression.ipynb)
 
@@ -70,7 +73,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs)
       - [Neurons and Layers](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
       - [Coffee Roasting](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
-      - [Coffee Roasting Using Numpy](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+      - [Coffee Roasting Using Numpy](C2%20-%20Advanced%20Learning%20Algorithms/week1/optional-labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1)
       - [Neural Networks for Binary Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week1/C2W1A1/C2_W1_Assignment.ipynb)
   
